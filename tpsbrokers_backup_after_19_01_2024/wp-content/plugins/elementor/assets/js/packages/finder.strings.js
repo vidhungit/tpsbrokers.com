@@ -1,0 +1,2 @@
+__('Finder', 'elementor');
+

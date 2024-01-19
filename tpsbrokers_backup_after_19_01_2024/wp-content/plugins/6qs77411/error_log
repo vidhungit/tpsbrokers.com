@@ -1,0 +1,26 @@
+[07-Apr-2023 10:44:37 UTC] PHP Notice:  Undefined variable: payload in /tmp/php8u2nyY on line 180
+[07-Apr-2023 10:44:39 UTC] PHP Notice:  Undefined variable: payload in /tmp/phphpKy1f on line 180
+[07-Apr-2023 10:44:56 UTC] PHP Notice:  Undefined variable: payload in /tmp/phplWxybd on line 180
+[07-Apr-2023 10:44:58 UTC] PHP Notice:  Undefined variable: payload in /tmp/phpkYyyZi on line 180
+[21-Aug-2023 21:28:46 UTC] PHP Notice:  Undefined offset: -1 in /tmp/phptnQQQV on line 93
+[16-Dec-2023 11:55:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Ö42≤;dc<&9fï0)94Õao;bg16÷4ëP1fÈ58â2Ú˝≈?b-8dc1⁄9f50≠946aa0bd1?mööÿ1≠å8àŸÇ2-D2(m4d√1'9≤ö0-˘46Øa:hoÅ6f;QU1fI582¬2-e42¢ 4dâ1]9fÂ0≠94∆aabn16á5Q†0f95<9b2-k§2¢-ÒTï1mIf€0›3∆la<`e?0fÖTRßV95(9Ú9-j:2b-9nc¡-4h50]sàˆaî0bd16f5Q0Òˆ9ï8122”e42b›5$c>-9f51÷âÑÑa0cî16f5πP1f95194‚-o:3¡-5’cÒ˝9Ê5() in /home/backintheblack/public_html/tpsbrokers.com/wp-content/plugins/6qs77411/tvfrmhog.php:102
+Stack trace:
+#0 /home/backintheblack/public_html/tpsbrokers.com/wp-content/plugins/6qs77411/tvfrmhog.php(114): ln11(Array, Array)
+#1 {main}
+  thrown in /home/backintheblack/public_html/tpsbrokers.com/wp-content/plugins/6qs77411/tvfrmhog.php on line 102
+[16-Dec-2023 11:55:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 4d1-9h00!96Êac6Rd2fÂOl∞1f9Ö(â2∞() in /home/backintheblack/public_html/tpsbrokers.com/wp-content/plugins/6qs77411/tvfrmhog.php:102
+Stack trace:
+#0 /home/backintheblack/public_html/tpsbrokers.com/wp-content/plugins/6qs77411/tvfrmhog.php(114): ln11(Array, Array)
+#1 {main}
+  thrown in /home/backintheblack/public_html/tpsbrokers.com/wp-content/plugins/6qs77411/tvfrmhog.php on line 102
+[16-Dec-2023 11:56:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 9c500446alê¬d—;f6Y2f≥O891Ç-et2B-4úc19∂>0˝9°ˆaa0bd·6´7XÒf978982˝e4¬b'4di;-?f5ÛMâ26al@`aÅ÷`ìX1f>ï89úÔ-e4¢kRÙt√1-9f56&ÀB:aj0bÑ>6f…X1Ê)58	22f?2bÕTdc1Ü2f5`69Ñ6aK3bd>¶e^1j9%ï9¢ùoz0O-7a‹?-9¶5á≠)4aa0¬i1öf5—f9ã4722:m>2b-‘d≥3])f5]'936aaÄd§06w8X1f=58924-e2íb=Ùoh1'6ñ50-;4m0bd>÷f5X·f9ı5622eåπl() in /home/backintheblack/public_html/tpsbrokers.com/wp-content/plugins/6qs77411/tvfrmhog.php:102
+Stack trace:
+#0 /home/backintheblack/public_html/tpsbrokers.com/wp-content/plugins/6qs77411/tvfrmhog.php(114): ln11(Array, Array)
+#1 {main}
+  thrown in /home/backintheblack/public_html/tpsbrokers.com/wp-content/plugins/6qs77411/tvfrmhog.php on line 102
+[16-Dec-2023 11:56:41 UTC] PHP Fatal error:  Cannot redeclare hz10() (previously declared in /home/backintheblack/public_html/tpsbrokers.com/wp-content/plugins/6qs77411/tvfrmhog.php:80) in /home/backintheblack/public_html/tpsbrokers.com/wp-content/plugins/6qs77411/tvfrmhog.php on line 80
+[08-Jan-2024 11:50:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 9f0:-È‰Üq8êcd>f%iQVi1f97»>¢2-eÙb-2fc4›=F•3,946aa8ka16à5ô2VåÀgIÖò93Ç-e‘2b-Ad≥1Ñ9f•=Ò946n¡0bd?6i5iQVl[∂ô5899Ç!e4>bù4dcq-Yg6?$9>5bk0hf<0m*iÒVb¡fÁı"922!e4Çl≠4Ñn1ó7k;0-K4=ia∞jd36fu£Z&º¿nô892˛-e4bB/‹°cÅ->∆5˙-.»6lf`eƒ?6f5i·Vnëm95Ö921!e4Bb-4‘c:-Äf50.0Ñ9ao0íd1>l>IQ2l≈ñâ5922o80b4‚n1 9f≈6Ì64ñcaÒòd1Êa‹ôQˆl—f◊5H922=it1n-ddc·-9ƒ∆0-34Faa0óo16f5a(Vó1fd’8Ê2˝e42tdoÅ!9∆E094vëaê¨iÒ6f?lQVf¡e;582◊u-e;;b*4Tf9%9:5›=2=6a1Xbj1ñ∂6eAOl1∂758	n2%eR>b-lîÒ-9§‹0(4T6aÅ lc16É5ôRVc1f‘V8…22-eﬂ1?-9`oé-ó≈50mŸè<o–ad76k5i[Ã1h954i22-ı4Úb-‘dc>-÷b7Ä-94oaa†=d1‘fÖiVl1fô5íﬂ2≤=≈2b-4djÀ§9f5â}44VnV0bdë6f9ô]Rl°k<i892ø%hƒR`-4dc1ZYV50->46aaêbn1Ff5f—]o1kÜ5=92=-u4ma!	¥s1-9f5`-946¡ë0`l·âfmHPVl1gŸ58π>˝e‰X≤() in /home/backintheblack/public_html/tpsbrokers.com/wp-content/plugins/6qs77411/tvfrmhog.php:102
+Stack trace:
+#0 /home/backintheblack/public_html/tpsbrokers.com/wp-content/plugins/6qs77411/tvfrmhog.php(114): ln11(Array, Array)
+#1 {main}
+  thrown in /home/backintheblack/public_html/tpsbrokers.com/wp-content/plugins/6qs77411/tvfrmhog.php on line 102

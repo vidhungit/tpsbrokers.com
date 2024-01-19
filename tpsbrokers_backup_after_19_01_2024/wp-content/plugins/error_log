@@ -1,0 +1,12 @@
+[12-Sep-2023 15:56:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/backintheblack/public_html/tpsbrokers.com/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/backintheblack/public_html/tpsbrokers.com/wp-content/plugins/hello.php on line 69
+[05-Oct-2023 05:14:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/backintheblack/public_html/tpsbrokers.com/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/backintheblack/public_html/tpsbrokers.com/wp-content/plugins/hello.php on line 69
+[05-Oct-2023 05:14:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/backintheblack/public_html/tpsbrokers.com/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/backintheblack/public_html/tpsbrokers.com/wp-content/plugins/hello.php on line 69

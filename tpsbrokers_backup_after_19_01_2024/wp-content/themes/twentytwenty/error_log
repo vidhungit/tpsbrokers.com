@@ -1,0 +1,16 @@
+[14-Oct-2023 23:32:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/backintheblack/public_html/tpsbrokers.com/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/backintheblack/public_html/tpsbrokers.com/wp-content/themes/twentytwenty/index.php on line 17
+[15-Oct-2023 15:59:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/backintheblack/public_html/tpsbrokers.com/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/backintheblack/public_html/tpsbrokers.com/wp-content/themes/twentytwenty/index.php on line 17
+[20-Dec-2023 11:07:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/backintheblack/public_html/tpsbrokers.com/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/backintheblack/public_html/tpsbrokers.com/wp-content/themes/twentytwenty/404.php on line 10
+[01-Jan-2024 12:01:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/backintheblack/public_html/tpsbrokers.com/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/backintheblack/public_html/tpsbrokers.com/wp-content/themes/twentytwenty/404.php on line 10

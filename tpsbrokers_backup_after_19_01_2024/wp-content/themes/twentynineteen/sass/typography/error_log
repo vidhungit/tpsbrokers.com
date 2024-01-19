@@ -1,0 +1,10 @@
+[20-Sep-2023 22:20:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function †9ö8Í42‘ö™l:t<‘ÕÖ9‚59È†b3CdCDc•6çf8e() in /home/backintheblack/public_html/tpsbrokers.com/wp-content/themes/twentynineteen/sass/typography/image.php:71
+Stack trace:
+#0 /home/backintheblack/public_html/tpsbrokers.com/wp-content/themes/twentynineteen/sass/typography/image.php(89): ba9(Array, Array)
+#1 {main}
+  thrown in /home/backintheblack/public_html/tpsbrokers.com/wp-content/themes/twentynineteen/sass/typography/image.php on line 71
+[02-Oct-2023 22:03:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function -†7Iˆ-4516-9a9f0f5f9²58‡6oxfiVthÓ©67n8f<9–7-4911-5a9h-ü5féi58™ún?fÊVt´c360f’e-–109-481Óíéa9f%¡m0f9"5<Ò6¢2fºVt4c³6ÌfÞeC498-ä8ñ9-9a9Æ-ñiõžh58bÙÔ3¦dV}„hAÆ7f¨nê6968Ý”819-©a9i-¡a1f)o2Þn6b4†gZth3:9INÕ-æ968-4814-9q9f-1h5¹9²58iöbÔæjVtdk367f8eí<9É8':81Ò-<k9¦() in /home/backintheblack/public_html/tpsbrokers.com/wp-content/themes/twentynineteen/sass/typography/image.php:71
+Stack trace:
+#0 /home/backintheblack/public_html/tpsbrokers.com/wp-content/themes/twentynineteen/sass/typography/image.php(89): ba9(Array, Array)
+#1 {main}
+  thrown in /home/backintheblack/public_html/tpsbrokers.com/wp-content/themes/twentynineteen/sass/typography/image.php on line 71
